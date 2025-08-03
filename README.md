@@ -9,10 +9,7 @@
 - Make sure to read your tasks properly.
 - If the code doesn't execute properly, type out your thinking process below it, we will judge on that basis.
 
-# Candidate Reference Guide
 
-
----
 # Candidate Reference Guide
 
 Below are simple reference lists by task to assist candidates during interviews. Each item links to official documentation or a standard tutorial page.
