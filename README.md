@@ -6,7 +6,6 @@
 - You may use built-in Python/numpy/pandas/scikit-learn documentation.
 - Read each prompt carefully; constraints are important.
 - Write your code and provide your reasoning as instructed.
-- Make sure to read your tasks properly.
 - If the code doesn't execute properly, type out your thinking process below it, we will judge on that basis.
 
 
