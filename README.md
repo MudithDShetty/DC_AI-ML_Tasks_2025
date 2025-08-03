@@ -6,6 +6,8 @@
 - You may use built-in Python/numpy/pandas/scikit-learn documentation.
 - Read each prompt carefully; constraints are important.
 - Write your code and provide your reasoning as instructed.
+- Make sure to read your tasks properly.
+- If the code doesn't execute properly, type out your thinking process below it, we will judge on that basis.
 
 # Candidate Reference Guide
 
@@ -77,4 +79,6 @@ Below are simple reference lists by task to assist candidates during interviews.
 ---
 
 *Each link leads to code explanations or concise examples useful for the interview tasks.*
+
+**Wishing all the candidates Good Luck!!**
 
