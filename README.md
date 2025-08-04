@@ -8,10 +8,14 @@
 - Write your code and provide your reasoning as instructed.
 - If the code doesn't execute properly, type out your thinking process below it, we will judge on that basis.
 
+## It is advised to read all the documentaion and understand the code you write properly, we will be asking you questions related to it in the interviews!
+
 
 # Candidate Reference Guide
 
 Below are simple reference lists by task to assist candidates during interviews. Each item links to official documentation or a standard tutorial page.
+
+
 
 ---
 
